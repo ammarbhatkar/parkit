@@ -4,12 +4,12 @@ publish_to: 'none'
 version: 0.1.0
 
 environment:
-  sdk: '>=3.1.5 <4.0.0'
+  sdk: '>=3.3.0 <4.0.0'
 
 dependencies:
-  carousel_slider: ^4.2.1
+  carousel_slider: ^5.0.0
   empty_widget: ^0.0.5
-  file_picker: ^8.0.0+1
+  file_picker: ^10.1.9
   flutter:
     sdk: flutter 
   flutter_rating_bar: ^4.0.1

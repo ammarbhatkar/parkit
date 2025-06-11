@@ -16,6 +16,7 @@ import 'screens/parking_area.dart';
 import 'screens/parking_lot.dart';
 
 void main() async {
+
   runApp(const MainApp());
 }
 
